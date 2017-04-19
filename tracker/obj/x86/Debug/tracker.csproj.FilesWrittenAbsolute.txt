@@ -1,6 +1,0 @@
-/mnt/Dane/Koderka/Projekty/Okienkowce/tracker/tracker/tracker/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/mnt/Dane/Koderka/Projekty/Okienkowce/tracker/tracker/tracker/obj/x86/Debug/tracker.gtk-gui.gui.stetic
-/mnt/Dane/Koderka/Projekty/Okienkowce/tracker/tracker/tracker/bin/Debug/tracker.exe.mdb
-/mnt/Dane/Koderka/Projekty/Okienkowce/tracker/tracker/tracker/bin/Debug/tracker.exe
-/mnt/Dane/Koderka/Projekty/Okienkowce/tracker/tracker/tracker/obj/x86/Debug/tracker.exe
-/mnt/Dane/Koderka/Projekty/Okienkowce/tracker/tracker/tracker/obj/x86/Debug/tracker.exe.mdb
