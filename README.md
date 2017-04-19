@@ -8,8 +8,12 @@ You can also double-click on task name.
 
 Serializes to binary file .local/tracker.sav, saved in home directory.
 
-Usage:
+### Usage:
 
 Copy drtimetracker.exe from tracker/tracker/bin/Debug to desired destination.
 
 mono "drtimetracker.exe"
+
+### Screenshot:
+
+![Screenshot](shot.png)
