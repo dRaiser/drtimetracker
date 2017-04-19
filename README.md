@@ -1,7 +1,7 @@
 # drtimetracker
-Really simple Mono/GTK# based time tracker
+Really simple Mono/GTK# based time tracker.
 
-Support three levels of tasks.
+Supports three levels of tasks.
 
 Press Play/Pause button to start/stop tracking selected task.
 You can also double-click on task name.
