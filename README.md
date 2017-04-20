@@ -1,5 +1,5 @@
 # drtimetracker
-Really simple Mono/GTK# based time tracker.
+Really simple Mono/GTK# based time tracker. Developed for Linux, but should work just fine in Windows & MacOS too.
 
 Supports three levels of tasks.
 
