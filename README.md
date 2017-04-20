@@ -8,11 +8,11 @@ You can also double-click on task name.
 
 Serializes to binary file .local/tracker.sav, saved in home directory.
 
+UI is slightly based on ktimetracker which was deprecated.
+
 ### Usage:
 
 Direct binary download: https://github.com/dRaiser/drtimetracker/blob/master/tracker/bin/Debug/drtimetracker.exe
-
-Copy drtimetracker.exe from tracker/tracker/bin/Debug to desired destination.
 
 mono "drtimetracker.exe"
 
