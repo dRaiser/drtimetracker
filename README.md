@@ -8,7 +8,7 @@ You can also double-click on task name.
 
 Serializes to binary file .local/tracker.sav, saved in home directory.
 
-Open source, MIT licencee.
+Open source, MIT license.
 
 ### Why?
 
