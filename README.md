@@ -10,7 +10,7 @@ Serializes to binary file .local/tracker.sav, saved in home directory.
 
 Open source, MIT licencee.
 
-###Why?
+### Why?
 
 I've realized there is lack of simple, minimalistic, cloud-free task time-trackers applications right now. If you feel the same, please enjoy.
 
